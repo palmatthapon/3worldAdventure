@@ -1,9 +1,7 @@
 # 3worldAdventure
 
-Indie Game play on mobile.
+Mobile game development on Unity2018.
 
-Development on Unity2018.
+<a href="https://www.youtube.com/watch?v=ZcAhsHYL_os&feature=youtu.be">Sample video</a>
 
-Sample video game : https://www.youtube.com/watch?v=ZcAhsHYL_os&feature=youtu.be
-
-instragram tag : https://www.instagram.com/explore/tags/3%E0%B8%A0%E0%B8%9Eproject/?hl=th
+<a href="https://www.instagram.com/explore/tags/3%E0%B8%A0%E0%B8%9Eproject/?hl=th">images and videos</a>
