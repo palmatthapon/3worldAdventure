@@ -1,6 +1,6 @@
 # 3worldAdventure
 
-<img src="images/demo.png" alt="hi" class="inline" width="80%"/><br>
+<img src="images/demo.PNG" alt="hi" class="inline" width="80%"/><br>
 
 Mobile game development on Unity2018.
 
